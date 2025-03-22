@@ -25,5 +25,4 @@
 
 <img width="915" alt="Снимок экрана 2025-03-22 в 18 26 56" src="https://github.com/user-attachments/assets/89493681-a2a4-4be4-9699-19711b527b3a" />
 
-### Web
 
