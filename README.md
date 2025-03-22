@@ -25,4 +25,10 @@
 
 <img width="915" alt="Снимок экрана 2025-03-22 в 18 26 56" src="https://github.com/user-attachments/assets/89493681-a2a4-4be4-9699-19711b527b3a" />
 
+### Web
 
+<img width="612" alt="Снимок экрана 2025-03-22 в 18 52 43" src="https://github.com/user-attachments/assets/3923b86e-3065-42b4-be50-8e70ae9ae123" />
+<img width="823" alt="Снимок экрана 2025-03-22 в 18 52 08" src="https://github.com/user-attachments/assets/54fe073f-970a-4c1d-a80f-28ae82ab62ee" />
+<img width="949" alt="Снимок экрана 2025-03-22 в 18 52 12" src="https://github.com/user-attachments/assets/49cc4e13-ea48-4334-88e2-81f664467b9d" />
+<img width="1185" alt="Снимок экрана 2025-03-22 в 18 52 17" src="https://github.com/user-attachments/assets/dec0f9c3-e186-4484-a998-2a91a5c4d628" />
+<img width="1552" alt="Снимок экрана 2025-03-22 в 18 52 22" src="https://github.com/user-attachments/assets/d09b0d45-60d5-48b1-86d2-3c1d2a4d5f8a" />
