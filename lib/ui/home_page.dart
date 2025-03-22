@@ -27,25 +27,23 @@ class _MyHomePageState extends State<MyHomePage> {
               appBar: HomeAppBar(scaffoldKey: _scaffoldKey),
               body: Center(child: HomeBody()),
               drawer: DeviceType.isPhone(context) ? const HomeSideBar() : null,
-              floatingActionButton: DeviceType.isTablet(context) ? Padding(
-                padding: const EdgeInsets.all(20),
-                child: FloatingActionButton.extended(
-
-                  onPressed: () {
-                  },
-                  shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(10)),
-                  label: Text('Button'),
-                ),
-              ) : null,
+              floatingActionButton:
+                  DeviceType.isTablet(context)
+                      ? Padding(
+                        padding: const EdgeInsets.all(20),
+                        child: FloatingActionButton.extended(
+                          backgroundColor: Colors.yellow,
+                          onPressed: () {},
+                          shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(10)),
+                          label: Text('Button'),
+                        ),
+                      )
+                      : null,
               bottomNavigationBar:
                   DeviceType.isPhone(context)
                       ? BottomNavigationBar(
                         items: const [
-                          BottomNavigationBarItem(
-                            icon: Icon(Icons.home),
-                            label: 'Home',
-                            backgroundColor: Colors.blueAccent,
-                          ),
+                          BottomNavigationBarItem(icon: Icon(Icons.home), label: 'Home'),
                           BottomNavigationBarItem(
                             icon: Icon(Icons.favorite),
                             label: 'Favorites',
